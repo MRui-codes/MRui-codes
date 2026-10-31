@@ -1,4 +1,46 @@
 
+# 💫 Hi 👋, I'm MRui-codes
+
+### 🚀 App & Web Developer | 💻 Passionate about Building Modern Applications & Websites
+
+I'm a passionate developer who loves creating **clean, responsive, and user-friendly applications**. I'm constantly learning new technologies and improving my skills in **Python, FastAPI, Web Development, and App Development**.
+
+---
+
+## 🛠️ Technologies & Tools
+
+🌐 **HTML** | 🎨 **CSS** | 💻 **JavaScript** | 🐍 **Python** | ⚡ **FastAPI**
+
+🐬 **MySQL** | 🍃 **MongoDB** | 🗄️ **Databases**
+
+📱 **Android Development** | 🤖 **Kotlin** | 🚀 **Jetpack Compose**
+
+🎨 **Adobe Photoshop** | 🔧 **Git** | 🐙 **GitHub** | 🔌 **REST APIs**
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 **I'm currently working on:** Exciting Web & App Development Projects
+- 🌱 **Currently Learning:** Python & FastAPI
+- 💻 **Interested In:** Web Development, Backend Development & App Development
+- ⚡ **Goal:** Build amazing projects and become a better developer every day!
+- 📫 **How to reach me:** Facebook & Email
+- 😄 **Fun Fact:** I love Tech, and Tech loves me! ❤️
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** <a href="mailto:mritunjoyapdj@gmail.com">mritunjoyapdj@gmail.com</a>
+
+💼 **GitHub:** Follow me to explore my projects and coding journey!
+
+---
+
+### ⭐ *"Code. Learn. Build. Repeat."* 🚀
+
+- 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/your_jay2018) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wild.mr_jay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mritunjoyapdj@gmail.com) 
 
